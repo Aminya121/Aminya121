@@ -13,7 +13,8 @@ print('Hello,world!')
 ## **2.Aminya's Hobbies**
 - 使用Python写一些小程序
 - 和朋友一起玩
-- FPS游戏 例如：Apex,CS2,Codm,RainBowSix...
+- 绘画
+- 研究没学过的新东西
 ## **3.You can find me at**
 1. **[Bilibili](https://space.bilibili.com/1331353550)**
 2. **[X](https://x.com/___Aminya___)**
