@@ -9,8 +9,8 @@ print('Hello,world!')
 2. 制作个人主页
 3. 尝试制作个人博客
 ## **2.Aminya's Hobbies**
-- 学习Python
-- 和朋友一起贴贴
+- 使用Python写一些小程序
+- 和朋友一起玩
 - FPS游戏 例如：Apex,CS2,Codm,RainBowSix...
 ## **3.You can find me at**
 1. **[Bilibili](https://space.bilibili.com/1331353550)**
