@@ -3,7 +3,8 @@
 print('Hello,world!')
 ```
 ### 这是一个空白的个人主页
-### 它虽然是空白的但我打算以后逐渐完善它          ![其实是懒得一次性完成](https://i2.hdslb.com/bfs/face/e0edeabd3db870247f770caa3d3301ef6ac8dbe7.jpg@150w_150h.jpg)
+### 它虽然是空白的但我打算以后逐渐完善它          
+![其实是懒得一次性完成](https://i2.hdslb.com/bfs/face/e0edeabd3db870247f770caa3d3301ef6ac8dbe7.jpg@150w_150h.jpg)
 ## **1.Aminya's Plan**
 1. 学习
 2. 制作个人主页
