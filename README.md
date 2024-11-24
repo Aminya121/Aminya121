@@ -15,22 +15,31 @@ print('Hello,world!')
 <h6>3. 尝试制作个人博客</h6>
 
 ***
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aminya121&show_icons=true&title_color=FFFFFF&text_color=D65DB1&icon_color=FFC75F&bg_color=DEG,5B63B7,7661BA,905EBA,A95AB8" />
-</a>
+<br/>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=Aminya121&show_icons=true&title_color=FFFFFF&text_color=D65DB1&icon_color=FFC75F&bg_color=DEG,5B63B7,7661BA,905EBA,A95AB8">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aminya121&">
+  </a>
+  <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aminya121&)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aminya121&show_icons=true&title_color=FFFFFF&text_color=D65DB1&icon_color=FFC75F&bg_color=DEG,5B63B7,7661BA,905EBA,A95AB8
+)
+
 
 ***
 <h2 align="center" class="info">2.Aminya' Hobbies</h2>
     
-- 使用Python写一些小程序
-- 和朋友一起玩
-- 绘画
-- 研究没学过的新东西
+<h6>-使用Python写一些小程序</h6>
+<h6>-和朋友一起玩</h6>
+<h6>-绘画</h6>
+<h6>-研究没学过的新东西</h6>
+
 ## **3.You can find me at**
-1. **[Bilibili](https://space.bilibili.com/1331353550)**
-2. **[X](https://x.com/___Aminya___)**
+ **[Bilibili](https://space.bilibili.com/1331353550)**
+ **[X](https://x.com/___Aminya___)**
 ## **4.Contact Information**
-1. tel:18021422821 +86
-2. QQEmail:2679588265@qq.com
+ <h3>tel:18021422821 +86</h3>
+ <h3>QQEmail:2679588265@qq.com</h3>
