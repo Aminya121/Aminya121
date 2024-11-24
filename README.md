@@ -1,4 +1,4 @@
-<h1 style="color: #845EC2;">Hello, World!</h1>
+<h1 align="center" class="info" style="color:#845EC2">Hello, World!</h1>
 
 ```python
 print('Hello,world!')
