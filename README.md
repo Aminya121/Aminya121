@@ -27,24 +27,21 @@ print('Hello,world!')
   <img width="450em" src="https://github-readme-stats.vercel.app/api?username=Aminya121&show_icons=true&title_color=FFFFFF&text_color=D65DB1&icon_color=FFC75F&bg_color=DEG,5B63B7,7661BA,905EBA,A95AB8">
   </a>
   
-
-
-
 ***
 <h2 align="center" class="info">2.Aminya' Hobbies</h2>
     
 <h6>-使用Python写一些小程序</h6>
+<h6>-研究没学过的新东西</h6>
 <h6>-和朋友一起玩</h6>
 <h6>-绘画</h6>
-<h6>-研究没学过的新东西</h6>
 
 ## **3.You can find me at**
  **[Bilibili](https://space.bilibili.com/1331353550)**
  **[X](https://x.com/___Aminya___)**
 ## **4.Contact Information**
- <h3>QQEmail:2679588265@qq.com</h3>
+ <h5>QQEmail:2679588265@qq.com</h5>
  
  ***
-<h1>To be continued...</h1>  
+<h3>To be continued...</h3>  
 
  ***
