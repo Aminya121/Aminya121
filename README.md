@@ -13,6 +13,12 @@ print('Hello,world!')
 1. 学习
 2. 制作个人主页
 3. 尝试制作个人博客
+***
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aminya121&show_icons=true&title_color=FFFFFF&text_color=D65DB1&icon_color=FFC75F&bg_color=DEG,5B63B7,7661BA,905EBA,A95AB8)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aminya121)](https://github.com/anuraghazra/github-readme-stats)
+
+***
 <h2>2.Aminya' Hobbies</h2>
     
 - 使用Python写一些小程序
