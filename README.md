@@ -15,7 +15,9 @@ print('Hello,world!')
 <h6>3. 尝试制作个人博客</h6>
 
 ***
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aminya121&show_icons=true&title_color=FFFFFF&text_color=D65DB1&icon_color=FFC75F&bg_color=DEG,5B63B7,7661BA,905EBA,A95AB8)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aminya121&show_icons=true&title_color=FFFFFF&text_color=D65DB1&icon_color=FFC75F&bg_color=DEG,5B63B7,7661BA,905EBA,A95AB8" />
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aminya121&)](https://github.com/anuraghazra/github-readme-stats)
 
