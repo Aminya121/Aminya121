@@ -26,13 +26,8 @@ print('Hello,world!')
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img width="450em" src="https://github-readme-stats.vercel.app/api?username=Aminya121&show_icons=true&title_color=FFFFFF&text_color=D65DB1&icon_color=FFC75F&bg_color=DEG,5B63B7,7661BA,905EBA,A95AB8">
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aminya121">
-  </a>
-  <br>
+  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aminya121&show_icons=true&title_color=FFFFFF&text_color=D65DB1&icon_color=FFC75F&bg_color=DEG,5B63B7,7661BA,905EBA,A95AB8
-)
 
 
 ***
