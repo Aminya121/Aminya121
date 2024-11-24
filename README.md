@@ -6,7 +6,7 @@ print('Hello,world!')
 <h3>这是一个全新的个人主页</h3>
 <h3>它虽然是全新的但我打算以后逐渐完善它</h3>
 
-![其实是懒得一次性完成](https://i2.hdslb.com/bfs/face/e0edeabd3db870247f770caa3d3301ef6ac8dbe7.jpg@150w_150h.jpg)
+![其实是懒得一次性完成](https://s2.loli.net/2024/11/24/5386HLo1mOhltYr.jpg)
 - [x] ~~才不是懒得一次性完成~~
 <h1 align="center" class="info">Aminya study now</h1>
 
