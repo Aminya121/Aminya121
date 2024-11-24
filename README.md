@@ -1,7 +1,4 @@
-<head>
-    <link rel="stylesheet" type="text/css" href="style.css">
-</head>
-<h1>Hello,World!</h1>
+<h1 style="color: blue;">Hello, World!</h1>
 
 ```python
 print('Hello,world!')
