@@ -41,7 +41,6 @@ print('Hello,world!')
  **[Bilibili](https://space.bilibili.com/1331353550)**
  **[X](https://x.com/___Aminya___)**
 ## **4.Contact Information**
- <h3>tel:18021422821 +86</h3>
  <h3>QQEmail:2679588265@qq.com</h3>
  
  ***
