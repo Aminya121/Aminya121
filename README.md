@@ -1,3 +1,7 @@
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
 # **Hello,World!**
 ```python
 print('Hello,world!')
