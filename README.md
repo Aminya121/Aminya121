@@ -8,6 +8,12 @@ print('Hello,world!')
 
 ![其实是懒得一次性完成](https://i2.hdslb.com/bfs/face/e0edeabd3db870247f770caa3d3301ef6ac8dbe7.jpg@150w_150h.jpg)
 - [x] ~~才不是懒得一次性完成~~
+<h1 align="center" class="info">Aminya study now</h1>
+
+- [x] Python
+- [ ] Java
+- [ ] C#
+- [ ] C++
 <h2 align="center" class="info">1.Aminya' Plan</h2>
 
 <h6>1. 学习</h6>
