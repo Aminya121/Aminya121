@@ -7,7 +7,7 @@ print('Hello,world!')
 <h3>它虽然是全新的但我打算以后逐渐完善它</h3>
 
 - [x] ~~才不是懒得一次性完成~~
-<h1 align="center" class="info">Aminya's study now</h1>
+<h1 align="center" class="info">Aminya's stats</h1>
 
 - [x] Python
 - [ ] Java
