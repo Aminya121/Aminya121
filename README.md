@@ -6,7 +6,6 @@ print('Hello,world!')
 <h3>这是一个全新的个人主页</h3>
 <h3>它虽然是全新的但我打算以后逐渐完善它</h3>
 
-![其实是懒得一次性完成](https://s2.loli.net/2024/11/24/5386HLo1mOhltYr.jpg)
 - [x] ~~才不是懒得一次性完成~~
 <h1 align="center" class="info">Aminya's study now</h1>
 
@@ -16,9 +15,9 @@ print('Hello,world!')
 - [ ] C++
 <h2 align="center" class="info">1.Aminya' Plan</h2>
 
-<h6>1. 学习</h6>
-<h6>2. 制作个人主页</h6>
-<h6>3. 尝试制作个人博客</h6>
+<h6 align="center">1. 学习</h6>
+<h6 align="center">2. 制作个人主页</h6>
+<h6 align="center">3. 尝试制作个人博客</h6>
 
 ***
 <br/>
@@ -28,16 +27,16 @@ print('Hello,world!')
   </a>
 <br/>
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=Aminya121&show_icons=true&title_color=FFFFFF&text_color=D65DB1&icon_color=FFC75F&bg_color=DEG,5B63B7,7661BA,905EBA,A95AB8">
+  </a>
+<br/>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aminya121&hide=javascript,html">
   </a>
+  <h6>-常用语言请在亮色模式下预览-</h6>
 
-  
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aminya121&show_icons=true&title_color=FFFFFF&text_color=D65DB1&icon_color=FFC75F&bg_color=DEG,5B63B7,7661BA,905EBA,A95AB8)
-
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aminya121&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
   
 ***
@@ -52,10 +51,11 @@ print('Hello,world!')
  **[Bilibili](https://space.bilibili.com/1331353550)**
  **[X](https://x.com/___Aminya___)**
 ## **4.Contact Information**
- <h5>QQEmail:2679588265@qq.com</h5>
+
+ <h6>QQEmail:2679588265@qq.com</h6>
  
  ***
 <h3>To be continued...</h3>  
 
  ***
- ![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+
