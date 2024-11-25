@@ -28,14 +28,18 @@ print('Hello,world!')
 <br/>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=Aminya121&show_icons=true&title_color=FFFFFF&text_color=D65DB1&icon_color=FFC75F&bg_color=DEG,5B63B7,7661BA,905EBA,A95AB8">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=Aminya121&show_icons=true&title_color=9CEAEC&text_color=7FD1AE&icon_color=00C6CF&bg_color=FFFFFF,&hide_border=true">
   </a>
 <br/>
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aminya121&hide=javascript,html">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aminya121&bg_color=222830&title_color=00C9C8&hide_border=true&layout=compact">
   </a>
-  <h6>-常用语言请在亮色模式下预览-</h6>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aminya121&bg_color=FFFFFF&title_color=8685EF&hide_border=true&layout=compact">
+  </a>
+  <br>
+  <h6>-维护中-</h6>
 
 
   
