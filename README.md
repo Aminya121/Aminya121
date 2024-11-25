@@ -33,10 +33,10 @@ print('Hello,world!')
 <br/>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aminya121&bg_color=222830&title_color=00C9C8&hide_border=true&layout=compact">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aminya121&bg_color=222830&title_color=00C9C8&text_color=BFFCF9&hide_border=true&layout=compact">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aminya121&bg_color=FFFFFF&title_color=8685EF&hide_border=true&layout=compact">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aminya121&bg_color=FFFFFF&title_color=8685EF&text_color=007D83&hide_border=true&layout=compact">
   </a>
   <br>
   <h6>-维护中-</h6>
