@@ -23,12 +23,12 @@ print('Hello,world!')
 <br/>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=Aminya121&show_icons=true&title_color=FFFFFF&text_color=D65DB1&icon_color=FFC75F&bg_color=DEG,5B63B7,7661BA,905EBA,A95AB8">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=Aminya121&show_icons=true&title_color=33AC8B&text_color=27AFB1&icon_color=77FAC6&bg_color=222830&hide_border=true">
   </a>
 <br/>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=Aminya121&show_icons=true&title_color=5B63B7&text_color=D65DB1&icon_color=FFC75F&bg_color=DEG,FFFFFF,FFF5FF,FFE8F7,FFDFCA">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=Aminya121&show_icons=true&title_color=FFFFFF&text_color=D65DB1&icon_color=FFC75F&bg_color=DEG,5B63B7,7661BA,905EBA,A95AB8">
   </a>
 <br/>
 <div align="center">
