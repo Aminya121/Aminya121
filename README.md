@@ -39,7 +39,7 @@ print('Hello,world!')
   <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aminya121&bg_color=FFFFFF&title_color=8685EF&text_color=007D83&height=300&hide_border=true&layout=compact">
   </a>
   <br>
-  <h6>-维护中!-</h6>
+
 
 
   
@@ -51,14 +51,21 @@ print('Hello,world!')
 <h6>-和朋友一起玩</h6>
 <h6>-绘画</h6>
 
+***
+
 ## **3.You can find me at**
- **[Bilibili](https://space.bilibili.com/1331353550)**
- **[X](https://x.com/___Aminya___)**
+
+</head>
+<body>
+<a href="https://space.bilibili.com/1331353550">Bilibili</a>
+</body>
+</html>
+
+
 ## **4.Contact Information**
 
  <h6>QQEmail:2679588265@qq.com</h6>
- 
- ***
+
 <h3>To be continued...</h3>  
 
  ***
