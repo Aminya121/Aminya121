@@ -8,7 +8,7 @@ print('Hello,world!')
 
 ![其实是懒得一次性完成](https://s2.loli.net/2024/11/24/5386HLo1mOhltYr.jpg)
 - [x] ~~才不是懒得一次性完成~~
-<h1 align="center" class="info">Aminya study now</h1>
+<h1 align="center" class="info">Aminya's study now</h1>
 
 - [x] Python
 - [ ] Java
@@ -26,6 +26,19 @@ print('Hello,world!')
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img width="450em" src="https://github-readme-stats.vercel.app/api?username=Aminya121&show_icons=true&title_color=FFFFFF&text_color=D65DB1&icon_color=FFC75F&bg_color=DEG,5B63B7,7661BA,905EBA,A95AB8">
   </a>
+<br/>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aminya121&hide=javascript,html">
+  </a>
+
+  
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aminya121&show_icons=true&title_color=FFFFFF&text_color=D65DB1&icon_color=FFC75F&bg_color=DEG,5B63B7,7661BA,905EBA,A95AB8)
+
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aminya121&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
   
 ***
 <h2 align="center" class="info">2.Aminya' Hobbies</h2>
