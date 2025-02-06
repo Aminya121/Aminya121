@@ -92,7 +92,7 @@
 - `yum install -y httpd mod_ssl* openssl*`
 - #下载Apache的扩展openssl插件
 ---
-## 4.配置DNS解析服务
+## 4.在CentOS8上配置DNS解析服务
 - ## 修改配置文件
     - `vim /etc/named.conf`
     - #进入DNS配置文件修改监听网址
@@ -192,7 +192,7 @@
 
 ---
 
-## 5.Apache配置openssl证书
+## 5.使用Apache配置openssl证书
 - ## 颁发证书
     - `cd /etc/pki/CA/`     
     - #切换到CA颁发
@@ -231,7 +231,7 @@
          1 sslcertificatefile /etc/ssl/skills.crt
          2 sslcertificatekeyfile /etc/ssl/skills.key
          3 
-         4 <VirtualHost *:80>
+         4 <VirtualHost *:80> #http端口
          5     ServerName abc.skills.com
          6     DocumentRoot /abc
          7         <Directory /abc>
@@ -239,7 +239,7 @@
          9         </Directory>
         10 </VirtualHost>
         11 
-        12 <VirtualHost *:443>
+        12 <VirtualHost *:443> #https端口
         13     ServerName abc.skills.com
         14     DocumentRoot /abc
         15         <Directory /abc>
@@ -257,7 +257,7 @@
     - #停止防火墙服务
     - `systemctl restart httpd`
     - #重启Apache服务
-    - `curl -k https://abc.skills.com`
+    - `curl -k https://abc.skills.com` #这里需要使用https的访问方式
     - #测试网址是否可以访问
     - `abc`
     - #看到以上回复则配置成功
