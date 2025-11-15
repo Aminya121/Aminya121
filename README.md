@@ -4,20 +4,19 @@
 print('Hello,world!')
 ```
 <h3>这是一个全新的个人主页</h3>
-<h3>它虽然是全新的但我打算以后逐渐完善它</h3>
+<h3>我打算以后逐渐完善它</h3>
 
 - [x] ~~才不是懒得一次性完成~~
-<h1 align="center" class="info">Aminya's stats</h1>
+<h1 align="center" class="info">Learning programming language</h1>
 
 - [x] Python
 - [ ] Java
 - [ ] C#
 - [ ] C++
-<h2 align="center" class="info">1.Aminya' Plan</h2>
+<h2 align="center" class="info">1.‌Current plan</h2>
 
 <h6 align="center">1. 学习</h6>
 <h6 align="center">2. 制作个人主页</h6>
-<h6 align="center">3. 尝试制作个人博客</h6>
 
 ***
 <br/>
@@ -74,4 +73,5 @@ print('Hello,world!')
 <h3>To be continued...</h3>  
 
  ***
+
 
